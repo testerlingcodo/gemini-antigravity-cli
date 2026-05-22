@@ -1,6 +1,6 @@
 <div align="center">
  
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d5f45dfa-cec6-4465-92ca-8dddf6b86364" />
+<img width="973" height="453" alt="image" src="https://github.com/user-attachments/assets/a431c7a7-5c8d-41f4-9282-bcd4999a2a35" />
 
 # Gemini Antigravity CLI
   <p align="center">
@@ -8,7 +8,7 @@
     <br/>
     Fast • Lightweight • Gemini 2.5 / 3.5 Flash • Coding Agent • MCP Support
     <br/>
-        <img width="1736" height="1068" alt="image" src="https://github.com/user-attachments/assets/d11086b1-7a32-467f-9977-9c3e54a3a319" />
+       <img width="1626" height="1266" alt="image" src="https://github.com/user-attachments/assets/c84364fa-94ce-458f-83ea-bdb4d3e50543" />
 
    <a href="https://github.com/testerlingcodo/gemini-antigravity-cli/issues">Report Bug</a> | <a href="https://github.com/testerlingcodo/gemini-antigravity-cli/issues">Discussions</a>
   </p>
